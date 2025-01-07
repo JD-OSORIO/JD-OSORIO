@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/502d0192-fd14-4b1d-97f0-4f40959ef102)
 <h1 align="center">Hola! , Soy Juan David Osorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+Desarrollador+De+Software;Desarrollador+Web+Full+Stack;DS|+BD|+AWS|+Avanzado;Siempre+Se+Aprenden+Cosas+Nuevas&center=true&width=500&height=50"></a>
