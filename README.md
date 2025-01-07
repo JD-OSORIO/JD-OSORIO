@@ -1,7 +1,7 @@
-
+![image](https://github.com/user-attachments/assets/502d0192-fd14-4b1d-97f0-4f40959ef102)
 <h1 align="center">Hola! , Soy Juan David Osorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+Desarrollador+Software;Desarrollador+Web+Full+Stack;DS|+BD|+AWS|+Avanzado;Siempre+Se+Aprenden+Cosas+Nuevas&center=true&width=500&height=50"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+Desarrollador+De+Software;Desarrollador+Web+Full+Stack;DS|+BD|+AWS|+Avanzado;Siempre+Se+Aprenden+Cosas+Nuevas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Soy un Desarrollador Junior En Backend y Frontend. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.</h4>
@@ -35,8 +35,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  <a href="https://learn.microsoft.com/es-es/dotnet/welcome">
+    <img alt=".NET" src="https://img.shields.io/badge/dotnet-%23777BB4.svg?logo=dotnet&logoColor=white"/>
   </a>
 </p>
 
