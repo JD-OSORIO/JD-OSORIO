@@ -10,7 +10,7 @@
 
 ## 🔥 Streak Stats
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es" alt="GitHub Streak" /></a></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es" alt="GitHub Streak" /></a>
 
 ## 🛠️ My Skills
 
