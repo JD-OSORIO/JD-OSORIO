@@ -9,8 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JD-OSORIO&label=Profile%20views&color=0e75b6&style=plastic" alt="JD-OSORIO" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es" alt="GitHub Streak" /></a></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es" alt="GitHub Streak" /></a>
+
 
 ## 🛠️ My Skills
 
