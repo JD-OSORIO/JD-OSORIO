@@ -153,9 +153,11 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 ## 🙋‍♂ Contactame
 <p align="center">
+	<p align="center">
 	<a href="#">
-	<h2>jdosorioz22@gmail.com</h2>
-	<img src="https://skillicons.dev/icons?i=gmail"/></a>
+	<h4>Contactame: jdosorioz22@gmail.com</h2></a>
+	<img src="https://skillicons.dev/icons?i=gmail"/>
+	</p>
 	<a href="https://github.com/JD-OSORIO"><img src="https://skillicons.dev/icons?i=github"/></a>
 	<a href="https://www.linkedin.com/in/juan-david-osorio-zapata-18836031a"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
