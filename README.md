@@ -53,52 +53,56 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 ### 👉 Desarrollo FrontEnd
 <p align="left"> 
+   &emsp; 
+  <a href="https://www.w3schools.com/angular/" target="_blank"> 
+   <img alt="HTML" src="https://skillicons.dev/icons?i=angular">
+  </a>
+   &emsp; 
+  <a href="https://www.w3schools.com/react/" target="_blank"> 
+   <img alt="HTML" src="https://skillicons.dev/icons?i=react">
+  </a> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://skillicons.dev/icons?i=html">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://skillicons.dev/icons?i=css">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+    <img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Base de Datos y Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://skillicons.dev/icons?i=github"></a>
   &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://skillicons.dev/icons?i=firebase"></a>
  </p>
 
   
- ### 👉 Software & Tools
+ ### 👉 Softwares y Herramientas
  
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
   &emsp;
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   &emsp;
@@ -108,11 +112,11 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Estadisticas de GitHub (Expander Para Ver) 
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Perfil de Estadisticas GitHub</b></summary>
   <br/>
   <p align="center">
     <p align= "center">
@@ -121,13 +125,13 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 <br/>
   &nbsp;
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>¡Nota!:</b> Top languages es sólo una métrica de los lenguajes de los que se compone mi código público y no refleja la experiencia o el nivel de habilidad.
   </p>
 </details>
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Actividades Recientes</b></summary>
   <br/>
    <a href="https://github.com/JD-OSORIO"><img alt="JD-OSORIO Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JD-OSORIO&custom_title=Juan David%20Osorio%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
@@ -136,7 +140,7 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️ Contactame
 <p align="center">
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
