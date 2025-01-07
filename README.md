@@ -35,19 +35,19 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://skillicons.dev/icons?i=js">
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://skillicons.dev/icons?i=java">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://skillicons.dev/icons?i=py">
   </a>
   &emsp;
   <a href="https://learn.microsoft.com/es-es/dotnet/welcome">
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-%23777BB4.svg?logo=dotnet&logoColor=white"/>
+    <img alt=".NET" src="https://skillicons.dev/icons?i=dotnet"/>
   </a>
 </p>
 
