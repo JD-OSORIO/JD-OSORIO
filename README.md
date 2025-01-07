@@ -6,10 +6,10 @@
 <hr/>
 <h4 align="center">Soy un Junior en el desarrollo frontend y backend. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.</h4>
 <br>
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JD-OSORIO&label=Profile%20views&color=0e75b6&style=plastic" alt="JD-OSORIO" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="candida18"  /></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JD-OSORIO&theme=algolia&locale=es&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a></p>
 
 
 ## 🛠️ My Skills
@@ -162,8 +162,8 @@
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+
+
 
 
 
