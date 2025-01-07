@@ -155,7 +155,7 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 <p align="center">
 <a href="mailto.jdosorioz22@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-<h4>jdosorioz22@gmail.com</h4></a>
+<h4 align="center">jdosorioz22@gmail.com</h4></a>
 </p>
 <p align="center">
 	<a href="https://github.com/JD-OSORIO"><img src="https://skillicons.dev/icons?i=github"/></a>
