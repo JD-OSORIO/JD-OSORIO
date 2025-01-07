@@ -5,6 +5,7 @@
 <hr/>
 <h4 align="center"> 
 🎓 Tecnologo en Analisis y Desarrollo de Software.
+<br>
 
 📝 Desarrollador de software: Me gusta programar, diseñar, innovar y experimentar.
 Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades.
