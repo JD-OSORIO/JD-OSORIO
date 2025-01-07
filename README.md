@@ -153,7 +153,7 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 ## 🙋‍♂ Contactame
 <p align="center">
-<a href="mailto.jdosorioz22@gmail.com">
+<a href="mailto:jdosorioz22@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 <h4 align="center">jdosorioz22@gmail.com</h4></a>
 </p>
