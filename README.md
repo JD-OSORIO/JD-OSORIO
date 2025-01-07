@@ -141,13 +141,6 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 </details>
 
 
-<details>
-  <summary><b>⚡ Actividades Recientes</b></summary>
-  <br/>
-   <a href="https://github.com/JD-OSORIO"><img alt="JD-OSORIO Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JD-OSORIO&custom_title=Juan David%20Osorio%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
 
 <br/>
 
