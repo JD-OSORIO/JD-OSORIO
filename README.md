@@ -73,6 +73,10 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>
   </a>
+   &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Talwind Css" src="https://skillicons.dev/icons?i=tailwind"/>
+  </a>
 </p>
 
 ### 👉 Base de Datos y Cloud Hosting
@@ -96,18 +100,23 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
   &emsp;
     <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="https://nodejs.org/"><img alt="Node Js" src="https://skillicons.dev/icons?i=nodejs"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://www.npmjs.com/"><img alt="NPM" src="https://skillicons.dev/icons?i=npm"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href="https://www.postman.com/"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
   &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="https://www.jetbrains.com/"><img alt="IntelliJ" src="https://skillicons.dev/icons?i=idea"></a>
   &emsp;
+    <a href="https://www.mongodb.com/products/tools/compass"><img alt="Mongo Compass" src="https://skillicons.dev/icons?i=mongodb"></a>
+  &emsp;
+    <a href="https://github.com/"><img alt="Git Hub" src="https://skillicons.dev/icons?i=github"></a>
+  &emsp;
+    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://skillicons.dev/icons?i=visualstudio"></a>
 </p>
 
 <br/>
@@ -140,7 +149,7 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 <br/>
 
-## 🙋‍♀️ Contactame
+## 🙋‍♂ Contactame
 <p align="center">
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
