@@ -8,9 +8,14 @@
 </h4>
 <h4 align="center"> 
 📝 Desarrollador de software: Me gusta programar, diseñar, innovar y experimentar.
+</h4>
+<h4 align="center"> 
 Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades.
+</h4>
+<h4 align="center"> 
 Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.
 </h4>
+
 <h4 align="center"> 
 💻 Tengo experiencia trabajando con Angular | React | Java | Spring Boot | Hibernate | Maven | SqlServer | MySQL | PostgreSQL.
 </h4>
