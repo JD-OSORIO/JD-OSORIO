@@ -28,10 +28,15 @@ Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y po
 
 ### 👉 Lenguajes de Programación
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <p align="left"> 
   &emsp;
   <a href="https://www.w3schools.com/typescript/index.php" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/TypeScript%20-%2300599C.svg?logo=typescript%2B%2B&logoColor=white">
+    <img alt="C++" src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
