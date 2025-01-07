@@ -1,17 +1,17 @@
 
-<h1 align="center">Hola! , Soy Juan David Osorio Zapata <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola! , Soy Juan David Osorio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+Y+Desarrollador+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Siempre%20se Aprende%20Cosas%20Nuevas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy un Junior en el desarrollo frontend y backend. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.</h4>
+<h4 align="center">Soy un Desarrollador Junior En Backend y Frontend. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JD-OSORIO&label=Profile%20views&color=0e75b6&style=plastic" alt="JD-OSORIO" /> </p>
 
 
-## 🛠️ My Skills
+## 🛠️ Mis Habilidades
 
-### 👉 Programming languages
+### 👉 Lenguajes de Programación
 
 <p align="left"> 
   &emsp; 
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Desarrollo FrontEnd
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -69,33 +69,8 @@
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
 
+  
  ### 👉 Software & Tools
  
 <p>
@@ -143,7 +118,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/JD-OSORIO"><img alt="JD-OSORIO Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JD-OSORIO&custom_title=Juan David%20Osorio%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -155,9 +130,7 @@
 	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
 </p>
-
 <hr/>
 
 
