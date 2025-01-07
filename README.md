@@ -3,8 +3,15 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analista+Desarrollador+De+Software;Desarrollador+Web+Full+Stack;DS|+BD|+AWS|+Avanzado;Siempre+Se+Aprenden+Cosas+Nuevas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy un Desarrollador Junior En Backend y Frontend. Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.</h4>
+<h4 align="center"> 
+🎓 Tecnologo en Analisis y Desarrollo de Software.
+
+📝 Desarrollador de software, Me gusta programar, diseñar, innovar y experimentar. Soy una persona entusiasta y sociable a la que le encanta asumir nuevos retos y aprender nuevas habilidades. Me encanta conocer gente nueva, intercambiar ideas y difundir conocimientos y positividad.
+
+💻 Tengo experiencia trabajando con Angular | React | Java | Spring Boot | Hibernate | Maven | SqlServer | MySQL | PostgreSQL.
+</h4>
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JD-OSORIO&label=Profile%20views&color=0e75b6&style=plastic" alt="JD-OSORIO" /> </p>
 
 
